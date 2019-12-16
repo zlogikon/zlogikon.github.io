@@ -1,3 +1,8 @@
+<head>
+  <link type="text/css" rel="stylesheet" href="/stylesheets/style.css" />
+</head>
+
+
 <body>
 <h1>Coding Resources</h1>
 <h2>Web Design</h2>
