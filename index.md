@@ -5,7 +5,7 @@
 <body>
 <h1>Coding Resources</h1>
   <h2>Web Design</h2>
-  <div class-"list">
+  <div class="list">
     <h3>HTML + CSS</h3>
     <h3>JavaScript</h3>
   </div>
