@@ -6,8 +6,7 @@
 <h1>Coding Resources</h1>
   <h2>Web Design</h2>
   <div class="list">
-    <h3>HTML + CSS</h3>
-    <h4><a href="https://www.freecodecamp.org/">Free Code Camp</a></h2>
+    <h3><a href="https://www.freecodecamp.org/">Free Code Camp</a></h3>
 <ul>
   <li>Responsive Web Design Certification
   <ul>
@@ -26,7 +25,6 @@
   <li>Data Visualization Certification</li>
   <li>Coding Interview Prep</li>
 </ul>
-    <h3>JavaScript</h3>
   </div>
   <h2>Python</h2>
   <h2>SQL and Databases</h2>
