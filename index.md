@@ -26,10 +26,23 @@
   <li>Coding Interview Prep</li>
 </ul>
   </div>
+  
+  <h3><a href="https://codepen.io/">CodePen</a></h3>
+  
   <h2>Python</h2>
+  <h3><a href="https://pybit.es/">PyBites</a></h3>
+
   <h2>SQL and Databases</h2>
 
-
+<h3><a href="https://www.hackerrank.com/">Hacker Rank</a></h3>
+<ul>
+  <li>SQL</li>
+  <li>Databases</li>
+  <li>Interview Prep Kit</li>
+  <li>30 Days of Code</li>
+  <li>10 Days of Stats</li>
+  <li>10 Days of JavaScript</li>
+</ul>
 
 
 
