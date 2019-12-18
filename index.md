@@ -12,7 +12,7 @@
       <li>Basic HTML and HTML5 - DONE</li>
       <li>Basic CSS - DONE</li>
       <li>Applied Visual Design - DONE</li>
-      <li>Applied Accessibility</li>
+      <li>Applied Accessibility - DONE</li>
       <li>Responsive Web Design Principles - DONE</li>
       <li>CSS Flexbox</li>
       <li>CSS Grid</li>
