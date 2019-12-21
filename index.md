@@ -5,7 +5,9 @@
 <body>
 <h1>Coding Resources</h1>
   <h2>Web Design</h2>
+  
   <h3><a href="https://www.freecodecamp.org/">Free Code Camp</a></h3>
+  <article>
   <p>Log in with GitHub</p>
   <ul>
     <li>Responsive Web Design Certification
@@ -25,21 +27,25 @@
     <li>Data Visualization Certification</li>
     <li>Coding Interview Prep</li>
   </ul>
+  </article>
   
   <h3><a href="https://codepen.io/">CodePen</a></h3>
-    <p>Log in with GitHub</p>
-
+  <article>
+  <p>Log in with GitHub</p>
+  </article>
   
   <h2>Python</h2>
   <h3><a href="https://pybit.es/">PyBites</a></h3>
+  <article>
   <p>Log in with GitHub</p>
-
+  </article>
 
   <h2>SQL and Databases</h2>
 
 <h3><a href="https://www.hackerrank.com/">Hacker Rank</a></h3>
+  <article>
   <p>Log in with GitHub</p>
-
+  
 <ul>
   <li>SQL</li>
   <li>Databases</li>
@@ -48,6 +54,7 @@
   <li>10 Days of Stats</li>
   <li>10 Days of JavaScript</li>
 </ul>
+</article>
 
 
 
