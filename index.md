@@ -5,9 +5,9 @@
 <body>
 <h1>Coding Resources</h1>
   <h2>Test Pages</h2>
-  <article>
-    <h3>Accessibility</h3>
-  </article>
+  
+    <h3><a href="testpages/accessibility.md">Accessibility</h3>
+  
   
   
   
