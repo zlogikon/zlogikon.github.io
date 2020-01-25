@@ -13,7 +13,7 @@
   
   <h2>Web Design</h2>
   
-  <h3><a href="https://www.freecodecamp.org/">Free Code Camp</a></h3>
+  <h3><a href="https://www.freecodecamp.org/" target="_blank">Free Code Camp</a></h3>
   <article>
   <p>Log in with GitHub</p>
   <ul>
