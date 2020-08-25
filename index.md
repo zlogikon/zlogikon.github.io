@@ -1,6 +1,5 @@
 <head>
   <link type="text/css" rel="stylesheet" href="/stylesheets/style.css" />
-  <title>My Page</title>
 </head>
 
 <body>
