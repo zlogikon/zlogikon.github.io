@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Template Title!</title>
+<title>My Blog</title>
 <meta name="description" content="Example" />
 </head>
 <body>
